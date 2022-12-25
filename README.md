@@ -1,16 +1,12 @@
 # bearbook_art
 
-A new Flutter project.
 
-## Getting Started
+# 2022년 12월 26일 book앱 최신입니다.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 실습때 처음으로 만들어본 나만의 북입니다.
+### Firebase, Authentication, firestore Datebase를 추가
+### 자동로그인 추가 
+### 이메일 비밀번호 추가 
+### 회원가입 기능 추가
+### news 기능은 실패 
+### google 로그인 기능은 
